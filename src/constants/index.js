@@ -125,7 +125,7 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
+    title: "React js Developer",
     company_name: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
